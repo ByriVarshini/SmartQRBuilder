@@ -47,4 +47,3 @@ python generate.py
 ## Author
 
 Developed by [Byri Varshini](https://github.com/ByriVarshini)
-```
