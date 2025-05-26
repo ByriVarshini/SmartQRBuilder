@@ -12,7 +12,7 @@ SmartQRBuilder is a Python-based application that allows users to generate QR co
 ## Live Demo
 
 Check out the deployed Streamlit version here:  
-🔗 [https://smartqrbuilder.onrender.com](https://smartqrbuilder.onrender.com)
+🔗 https://smartqrbuilder.onrender.com/
 
 
 ## Installation
